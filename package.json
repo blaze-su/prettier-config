@@ -1,0 +1,16 @@
+{
+    "name": "@blaze-su/prettier-config",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.json",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/blaze-su/prettier-config.git"
+    },
+    "author": "Aleksandr Sidorov",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/blaze-su/prettier-config/issues"
+    },
+    "homepage": "https://github.com/blaze-su/prettier-config#readme"
+}
