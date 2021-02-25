@@ -1,18 +1,14 @@
-# `@blaze-su/prettier-config`
-
-> My personal [Prettier](https://prettier.io) config.
-
 ## Usage
 
 **Install**:
 
 ```bash
-$ npm i @blaze-su/prettier-config -D
+$ npm i @blaze-su/prettier-config prettier -D
 ```
 
 **Edit `package.json`**:
 
-```jsonc
+```json
 {
   // ...
   "prettier": "@blaze-su/prettier-config"
