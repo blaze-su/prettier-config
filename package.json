@@ -1,6 +1,6 @@
 {
     "name": "@blaze-su/prettier-config",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "main": "index.json",
     "repository": {
@@ -12,5 +12,8 @@
     "bugs": {
         "url": "https://github.com/blaze-su/prettier-config/issues"
     },
-    "homepage": "https://github.com/blaze-su/prettier-config#readme"
+    "homepage": "https://github.com/blaze-su/prettier-config#readme",
+    "peerDependencies": {
+        "prettier": "^2.2.1"
+    }
 }
